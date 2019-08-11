@@ -4,7 +4,7 @@
 #version : 0.1
 #Author : Khaled  Fathi [ khaledfathi@protonmail.com]
 #code : Python3 / PyQt5
-#repository : None 
+#repository : https://github.com/khaledfathi/K-Stopwatch-
 
 import sys , time , threading
 from PyQt5.QtWidgets import QApplication , QWidget , QPushButton , QLabel ,QTextBrowser , QFrame
